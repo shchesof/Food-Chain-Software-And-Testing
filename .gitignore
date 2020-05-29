@@ -1,0 +1,8 @@
+/workspace.xml
+.idea/
+*.iml
+*.iws
+.DS_Store
+log/
+target/
+reports/
